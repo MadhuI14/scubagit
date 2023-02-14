@@ -3,7 +3,7 @@ package com.scuba.Singleton;
 class Sample {
 	private Sample() {
 		System.out.println("private");
-		System.out.println("****************************");
+		System.out.println("**************Print**************");
 	}
 	public static Sample obj = null;
 	public static Sample getInstance() {
