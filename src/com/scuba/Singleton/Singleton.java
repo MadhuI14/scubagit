@@ -15,6 +15,7 @@ class Sample {
 	
 	public void A() {
 		System.out.println("Sample: method A()");
+		System.out.println("Sample: method D()");
 	}
 	
 	public void B() {
